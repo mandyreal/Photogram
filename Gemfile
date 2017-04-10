@@ -47,5 +47,5 @@ end
 
 gem 'haml', '~> 4.0.5'
 gem "paperclip", "~> 5.0.0"
-
+gem 'simple_form'
 
